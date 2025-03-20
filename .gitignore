@@ -1,2 +1,6 @@
 supabase/
 .envrc
+*.sql
+*.dump
+.docker/
+.direnv/
